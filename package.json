@@ -1,0 +1,17 @@
+{
+  "name": "KataISBN",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "dependencies": {
+    "jest": "^27.2.0",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
