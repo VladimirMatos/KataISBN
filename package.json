@@ -1,5 +1,5 @@
 {
-  "name": "KataISBN",
+  "name": "kataisbn",
   "version": "1.0.0",
   "description": "",
   "main": "Main.js",
@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
